@@ -1,0 +1,23 @@
+@import url('https://font.googleapis.com/css?family=Roboto');
+
+body {
+  background: url('../gbr/bf.jpg') no-repeat center center fixed;
+  background-size : cover;
+	font-family: 'Roboto' , sans-serif;
+	
+}
+
+.Header{
+	font-family: sans-serif;
+	margin : center auto ;
+}
+
+.contain {
+margin : auto ;
+}
+
+.footer{
+	font-family : sans-serif ;
+	background-color : white;
+	margin-top : 5px ;
+}
